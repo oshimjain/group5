@@ -1,0 +1,4 @@
+I've used github minimally in the past, mainly cloning other users' repositories to use their python packages and jupyter notebooks.  I've never worked on it collaboratively like this. So I'm relatively new to how to making changes locally and pushing them to the remote repository. 
+
+It was a little confusing to me initially, but I think I'm getting the hang of it now. I am still not entirely clear if issues arise when I commit prior to pulling other users' changes. It seems like there could be conflicts with alot of people making commits at the same time, as we were doing in class.
+
