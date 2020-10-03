@@ -1,0 +1,1 @@
+So far my experience with git has been rough. When trying to install it on teh first day for desktop all the programs given had unintuitive UI alongise poor documentation. Working with it on Frontera is relativly easier actually. However, this is my first time fully using for a code shared database.
