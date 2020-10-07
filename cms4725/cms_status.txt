@@ -1,20 +1,14 @@
 On branch main
 Your branch is up to date with 'origin/main'.
 
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-  deleted:    ../cms.txt
-
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
   cms_noadd.txt
+  cms_status.txt~
   cms_thoughts.txt~
 
-no changes added to commit (use "git add" and/or "git commit -a")
+nothing added to commit but untracked files present (use "git add" to track)
 
-
-What does this mean?
-
+###WHAT DOES THIS MEAN??:###
+The text that I've pasted above is the result of typing 'git status' following my most recent pull request, which placed cms_thoughts.txt and cms_status.txt  into the group5 repo. The above text displays the current state of the working directory and staging area, as well as which files are tracked and which are untracked by Git. Here we see that there are no changes staged for the next commit, which makes sense because we haven't added anything to the staging area since the last pull request. We can also see that there are currently three files which are 'untracked' or, in other words, unknown to Git at this time. We see that we can have Git recognize these files by using 'git add' filename.txt. 
