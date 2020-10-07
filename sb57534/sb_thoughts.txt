@@ -1,0 +1,4 @@
+My experience with Git:
+I have had some good experiences with Git, with a lot of work saved and iterations avoided due to the version control features provided by Git.
+I have used it before, but have never merged branches before. I used it to collaborate with teammates on a project, but since the changes we were making were not broad features, but rather incremental ones, and since we were mostly working on different directories, we worked directly on the main branch.
+I have found Git likeable and useful so far, and have not hit any hurdles, so to speak.
